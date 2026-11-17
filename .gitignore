@@ -1,0 +1,7 @@
+.venv/
+.cognee/
+.local_models/
+__pycache__/
+.env
+.env.*
+!.env.example
